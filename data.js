@@ -15,3 +15,20 @@ const account = [
 ];
 
 const months = ['Sausis', 'Vasaris', 'Kovas', 'Balandis', 'Geguze', 'Birzelis', 'Liepa', 'Rugpjutis', 'Rugsejis', 'Spalis', 'Lapkritis', 'Gruodis'];
+
+const table = [
+    {   
+        title: 'Menesio pavadinimas'
+        value: 'Menuo, kai buvo maziausiai uzdirbta'
+
+    },
+    {
+        title: 'Menesio pavadinimas'
+        value: 'Menuo, kai buvo maziausios islaidos'
+    }
+
+    {
+        title: 'Menesio pavadinimas'
+        value: 'Menuo, kai buvo didziausios islaidos'
+    }
+];
